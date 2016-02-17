@@ -1,0 +1,23 @@
+{
+  "name": "revolt.tools.responsive",
+  "homepage": "https://github.com/revolt-framework/tools.responsive",
+  "authors": [
+    {
+      "name": "Ruven Pelka",
+      "email": "ruven.pelka@gmail.com",
+      "homepage": "http://ruvenpelka.com"
+    }
+  ],
+  "description": "Revolt framework module for responsive mixins and function.",
+  "main": "_tools.responsive.scss",
+  "keywords": [
+    "revolt",
+    "oocss",
+    "css",
+    "responsive"
+  ],
+  "dependencies": {
+    "revolt.settings.responsive": "0.x.x"
+  },
+  "license": "MIT"
+}
